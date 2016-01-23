@@ -209,7 +209,7 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    "Boobs",
+   
     "Feedback",
     "plugins",
     "lock_join",
@@ -240,7 +240,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {174977552},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
